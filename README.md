@@ -14,7 +14,7 @@
 
 ## Bugs
 
-No bugs (that we know of feel free to contact us if you find one)
+No bugs
 
 ## Tech used
 
